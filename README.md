@@ -5,6 +5,8 @@ Purpose
 Resources
 
 ## Results
+
+![](/Resources/final_results.png).
 **The three candidates were:**  
   
 
